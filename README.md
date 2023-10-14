@@ -26,4 +26,4 @@
 - 📧 **Почта**: [danis.khasanov.95@mail.ru](mailto:danis.khasanov.95@mail.ru)
 - 📱 **Telegram**: [![Telegram Badge](https://img.shields.io/badge/-DanisKhasanov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/DanisKhasanov)
 
-Спасибо, что заглянули на мою страницу!
+Спасибо, что заглянули на мой профиль!
