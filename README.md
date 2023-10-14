@@ -12,7 +12,7 @@
 
 ## Мои проекты
 
-- 📂 [Ссылка на мои проекты](https://github.com/DanisKhasanov?tab=repositories)
+- 📂 [Mои проекты](https://github.com/DanisKhasanov?tab=repositories)
 
 ## Планы и цели
 
